@@ -1,0 +1,7 @@
+bottle
+passlib
+PyMySQL
+python-dateutil
+Mako
+sqlalchemy
+sqlalchemy-utils
